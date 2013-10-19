@@ -11,7 +11,7 @@ table {
   border-spacing: 0;
 }
 /* line 26,  */
-caption, th, td {
+.caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
@@ -30,7 +30,8 @@ a img {
   border: none;
 }
 /* line 114,  */
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary
+ {
   display: block;
 }
 /* line 3, ../sass/estilos.scss */
