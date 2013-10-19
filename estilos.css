@@ -89,6 +89,10 @@ header {
 /* line 42, ../sass/estilos.scss */
 nav {
   background-image: -webkit-linear-gradient(bottom, #660000 0%, #ff0011 81%);
+  background-image: -moz-linear-gradient(bottom, #660000 0%, #ff0011 81%);
+  background-image: -o-linear-gradient(bottom, #660000 0%, #ff0011 81%);
+  background-image: linear-gradient(bottom, #660000 0%, #ff0011 81%);
+  background-image: -ms-linear-gradient(bottom, #660000 0%, #ff0011 81%);
   height: 50px;
   overflow: hidden;
 }
