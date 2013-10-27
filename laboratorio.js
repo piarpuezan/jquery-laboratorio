@@ -1,3 +1,4 @@
 $(document).ready(function(){
-	alert('hola mundo');
+	//elementos ocultos iniciales
+	$('#borrarDesorden').hide();
 		});
