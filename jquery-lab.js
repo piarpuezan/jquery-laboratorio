@@ -10,7 +10,7 @@ $(document).ready(function() {
 		'color': '#454657',
 		'font-size': '88px',
 	});
-	// aplicando clase 'colores' del estilos.css
+	// aplicando clase 'colores' de estilo-laboratorio.css
 	$('section').addClass('colores');
 	// aplicando clase 'animacion' por CSS3 a un div con id
 	$('#animaciones').addClass('animacion');
