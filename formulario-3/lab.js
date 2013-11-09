@@ -13,5 +13,8 @@ $(document).ready(function(){
 
 function validate_phoneno(ph){
 	var pattern = new RegExp(/^[0-9-+]+$/);
-	return pattern.test(ph);
+	//expresion regular correo 
+	/*		/* /^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]+$/ */
+
+		return pattern.test(ph);
 }
